@@ -23,8 +23,6 @@ This project applies **Week 2 data science toolkit** to analyze a UK-based onlin
 retail-data-analysis/
 │
 ├── Week2_Assignment_Retail.ipynb          # Main Jupyter notebook (fully executed)
-├── Week2_Assignment_Retail_Report.pdf     # PDF export of complete analysis
-├── Retail_Analysis_Dashboard.png          # Professional 2×2 dashboard visualization
 ├── README.md                              # This file
 └── requirements.txt                       # Python dependencies
 ```
